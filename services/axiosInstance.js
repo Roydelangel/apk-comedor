@@ -12,7 +12,7 @@ const onAccessTokenFetched = (newAccessToken) => {
 
 
 const axiosInstance = axios.create({
-  baseURL: `http://10.231.182.225:8000/api`,
+  baseURL: 'http://10.86.126.225:8000/api',
 });
 
 
