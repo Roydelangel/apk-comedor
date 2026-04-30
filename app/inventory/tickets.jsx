@@ -15,8 +15,6 @@ export default function Inventory() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#e3e3e3ff",
-        justifyContent: "center",
-        alignItems: "center",
+        backgroundColor: "#f5f5f5",
     },
 });
